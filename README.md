@@ -8,7 +8,7 @@
 
 # 环境配置
 
-1. 操作系统：
+1. 操作系统：Ubuntu18.04
 
 2. muduo网络库源码编译安装：https://blog.csdn.net/QIANGWEIYUAN/article/details/89023980
 
